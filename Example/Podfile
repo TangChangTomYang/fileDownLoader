@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DownLoaderKit_Example' do
+  pod 'DownLoaderKit', :path => '../'
+
+  target 'DownLoaderKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
