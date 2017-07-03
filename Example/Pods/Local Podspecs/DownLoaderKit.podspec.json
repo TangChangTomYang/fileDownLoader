@@ -1,0 +1,22 @@
+{
+  "name": "DownLoaderKit",
+  "version": "0.1.0",
+  "summary": "A short description of DownLoaderKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TangChangTomYang/DownLoaderKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TangChangTomYang": "690852195@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/TangChangTomYang/DownLoaderKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DownLoaderKit/Classes/**/*"
+}

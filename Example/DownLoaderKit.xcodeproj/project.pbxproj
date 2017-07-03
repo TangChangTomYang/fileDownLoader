@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		05C2E9795320FBF37F3B03C2 /* Pods-DownLoaderKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DownLoaderKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DownLoaderKit_Example/Pods-DownLoaderKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		3E4990DC23C75B7C7CC4522E /* DownLoaderKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = DownLoaderKit.podspec; path = ../DownLoaderKit.podspec; sourceTree = "<group>"; };
+		3E4990DC23C75B7C7CC4522E /* DownLoaderKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DownLoaderKit.podspec; path = ../DownLoaderKit.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* DownLoaderKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DownLoaderKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,12 +61,12 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		97EE77C2D3D706C6152BFFF6 /* Pods-DownLoaderKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DownLoaderKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DownLoaderKit_Tests/Pods-DownLoaderKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A1EF29DD7715689D611474AD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A1EF29DD7715689D611474AD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B892ED1C024098322791AD9D /* Pods-DownLoaderKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DownLoaderKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-DownLoaderKit_Example/Pods-DownLoaderKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C4F17E076333DBABE4FBF584 /* Pods-DownLoaderKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DownLoaderKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-DownLoaderKit_Tests/Pods-DownLoaderKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D2F85C7BCBB973FDFC35C04A /* Pods_DownLoaderKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DownLoaderKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0E1E0133DDAFE8E50499CCD /* Pods_DownLoaderKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DownLoaderKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F138B73EC4A730E260376AEC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F138B73EC4A730E260376AEC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

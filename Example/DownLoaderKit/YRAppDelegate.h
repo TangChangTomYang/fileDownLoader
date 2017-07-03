@@ -13,3 +13,8 @@
 @property (strong, nonatomic) UIWindow *window;
 
 @end
+
+/** 验证文件合法性机制
+ 
+ 
+ */

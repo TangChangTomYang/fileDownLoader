@@ -1,0 +1,6 @@
+framework module DownLoaderKit {
+  umbrella header "DownLoaderKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

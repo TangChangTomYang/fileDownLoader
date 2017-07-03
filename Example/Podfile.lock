@@ -1,0 +1,16 @@
+PODS:
+  - DownLoaderKit (0.1.0)
+
+DEPENDENCIES:
+  - DownLoaderKit (from `../`)
+
+EXTERNAL SOURCES:
+  DownLoaderKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DownLoaderKit: f03453488fd9f0ee8528fa361d68cf8cac883330
+
+PODFILE CHECKSUM: 31488f565310be0624008fb04ed6fe73e0232dcb
+
+COCOAPODS: 1.2.1
